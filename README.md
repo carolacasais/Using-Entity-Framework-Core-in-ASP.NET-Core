@@ -1,6 +1,6 @@
 # Using-Entity-Framework-Core-in-ASP.NET-Core
 
-Creación de una página para una pastelería, con la opción de mofificar y añadir los productors, indicando nombre, característacas valor calórico etc.  
+Creación de una página para una pastelería, con la opción de mofificar y añadir los productors, indicando nombre, valor calórico, imagen, etc.  
 
 *Resultado:*   
 * Cabecera:
